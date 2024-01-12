@@ -36,7 +36,7 @@ console.log(getModelsSortedArr(cars));*/
 const nums = [1, 2, 3, 4, 5];
 const squaredNums = nums.map(num => num * num)
 console.log(nums);
-console.log(squaredNums);*/
+console.log(squaredNums);
 
 
 
@@ -51,5 +51,5 @@ function simpleMap(arr, callback) {
 const res1 = simpleMap([1, 2, 3], (el) => el * el);
 console.log(res1);
 
-
+*/
 
