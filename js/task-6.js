@@ -57,7 +57,7 @@ getPrompt().then((value) => {
  * 3) затримка між викликами ф-ції
  *
  * logCount повинна логувати кількість викликів
- */
+ 
 
 
 
@@ -77,3 +77,4 @@ const countWithDelay = (delay = 0, times = 0, stepInterval = 0) => {
 };
 
 countWithDelay(3000, 6, 1000);
+*/
